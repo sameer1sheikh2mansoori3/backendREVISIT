@@ -5,11 +5,13 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"nodemon index.js"
-
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "sameer sheikh mansoori",
   "license": "ISC",
-  "description": "full backend code"
+  "description": "full backend code",
+  "dependencies": {
+    "prettier": "^3.3.2"
+  }
 }
